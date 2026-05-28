@@ -4,11 +4,11 @@ Estudante de Engenharia de Computação - IFMS
 
 ## Tecnologias
 - Python
-- C
-- Node.js
+- C/C++
 - JavaScript
-- PostgreSQL
-- SQLite
+- Node.js
+- SQL
+
 
 ## Idiomas
 - Português
